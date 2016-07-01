@@ -1,0 +1,11 @@
+[package]
+name = "chip-16"
+version = "0.1.0"
+authors = ["chronium <onlivechronium@gmail.com>"]
+
+[dependencies]
+byteorder = "*"
+bitflags = "*"
+rustc-serialize = "*"
+minifb = "*"
+clock_ticks = "*"
